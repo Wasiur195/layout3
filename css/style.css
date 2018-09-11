@@ -1,0 +1,34 @@
+.header{
+	min-height:80px;
+	border:5px solid red;
+	margin-bottom:0px;
+}
+.banner{
+	min-height: 295px;
+	border: 5px solid blue;
+	margin-bottom: 0px;
+}
+
+.middle{
+	min-height: 250px;
+	border: 5px solid blue;
+	overflow:hidden;
+
+}
+.mid1{
+	min-height:320px;
+	border:2px solid blue;
+	width: 600px;
+	float:right;
+	
+	
+
+}
+.footer{
+	border:5px solid red;
+	min-height:150px;
+	margin-bottom: 10px;
+	
+
+}
+
